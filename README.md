@@ -2,7 +2,6 @@ Project Demo Video Link - https://drive.google.com/file/d/13cf8Svd7vX5u9gd03a8nH
 
 
 
-Certainly! Here's a project description you can use for your resume:
 
 **Project Title:** Digital Naturalist - AI-Enabled Tool for Biodiversity Researchers
 
