@@ -25,10 +25,12 @@ As a key contributor to the Digital Naturalist project, I played a pivotal role 
 7. **Documentation:** Created comprehensive documentation for the tool, including user guides and technical documentation, to facilitate seamless onboarding and knowledge transfer within the research community.
 
 **Technologies Used:**
-- Machine Learning (ML) and Deep Learning (DL) frameworks (e.g., TensorFlow, PyTorch)
+- Machine Learning (ML) frameworks (e.g., TensorFlow, PyTorch)
 - Image recognition and classification algorithms
-- Cloud computing platforms (e.g., AWS, Azure)
-- Data integration and API development
+- Cloud computing platforms (IBM Cloud)
+- Data integration
 - User interface design and usability testing
+- Anaconda Python for Jupyter Notebook
+- Python Flask
 
 This project showcases my expertise in leveraging artificial intelligence to address real-world challenges in biodiversity research, highlighting my skills in algorithm development, data integration, user interface design, and collaboration with interdisciplinary teams.
